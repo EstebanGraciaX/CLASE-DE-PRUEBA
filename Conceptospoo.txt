@@ -1,3 +1,4 @@
 programacion orientada a objetos
 concepto No 1 La POO es un paradigma o modelo a seguir para resolver un problema
 
+Concepto No 2 La POOresuelve un problema identificando objetos en un escenario
